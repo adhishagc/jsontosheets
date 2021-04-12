@@ -1,12 +1,11 @@
 {
     "version": "4.0.27",
     "app_version": "0.0.5",
-    "events": [
-        {
+    "events": [{
             "time": "2021-04-16",
             "timeText_en": "16th April 2021",
             "timeText_si": "2021 අප්‍රේල් 16 ",
-            "timeText_ta": "26 ம் திகதி மார்ச்,2020 ",
+            "timeText_ta": "16th April 2021",
             "nakath_reason_en": "It is believed that sighting the new moon brings prosperity and wellbeing for the new year",
             "nakath_reason_si": "නව සඳ බැලීම නව වසරේ සෞභාග්‍ය හා යහපත ගෙනදෙන  බවට විශ්වාස කෙරේ  ",
             "nakath_reason_ta": "புதிய சந்திரனை பார்ப்பது புத்தாண்டில் செழிப்பு மற்றும் நல்வாழ்வைத் தருவதாக நம்பப்படுகிறது",
@@ -26,7 +25,7 @@
             "time": "2021-04-12",
             "timeText_en": "12th April, 2021 ",
             "timeText_si": "2021 අප්‍රේල් 12 ",
-            "timeText_ta": "12ம் திகதி ஏப்ரல் 2021",
+            "timeText_ta": "12th April, 2021",
             "nakath_reason_en": "This chārithra is performed in order to refresh the body and mind for the New Year",
             "nakath_reason_si": "උදාවන නව වසර සඳහා ගත සිත පිරිසිදු කර ගැනීම මෙම චාරිත්‍රයේ අරමුණ වේ ",
             "nakath_reason_ta": "புது வருடத்தில் உடலிலும் மனதிலும் புத்துணர்வு கொண்டுவருவதட்காக இந்த மரபு பின்பற்றப்படுகிறது ",
@@ -66,7 +65,7 @@
             "time": "2021-04-14T02:33:00+05:30",
             "timeText_en": "2.33 am, 14th April 2021",
             "timeText_si": "2021 අප්‍රේල් 14, පෙ.ව 2.33",
-            "timeText_ta": "14ம் திகதி ஏப்ரல் 2021, காலை 2.33",
+            "timeText_ta": "2.33 am, 14th April 2021",
             "nakath_reason_en": "This marks the emergence of the New Year according to Sinhala and Tamil Sri Lankans",
             "nakath_reason_si": "සිංහල හා දමිළ ශ්‍රී ලාංකිකයන්ට අනුව නව වසරක ආරම්භය මෙසේ සනිටුහන් කෙරේ ",
             "nakath_reason_ta": "இலங்கையின் தமிழர் மற்றும் சிங்களவர்களின் புதிய வருடத்தின் ஆரம்பத்தை  இது குறிக்கிறது. ",
@@ -86,7 +85,7 @@
             "time": "2021-04-14T06:17:00+05:30",
             "timeText_en": "6.17 am, 14th April 2021",
             "timeText_si": "2021 අප්‍රේල් 14, පෙ.ව 6.17 ",
-            "timeText_ta": "14ம் திகதி ஏப்ரல் 2021,  காலை 6.17 ",
+            "timeText_ta": "6.17 am, 14th April 2021",
             "nakath_reason_en": "The desire of this chārithra is to retain prosperity throughout the year ",
             "nakath_reason_si": "වර්ෂය පුරා සෞභාග්‍යය උදා වීම අරමුණු කරගනිමින් මෙම චාරිත්‍රය ඉටු කරයි ",
             "nakath_reason_ta": "ஆண்டு முழுவதும் சௌபாக்கியம் மிக்கதாக அமைவதற்காக இந்த மரபு பின்பற்றப்படுகிறது. ",
@@ -106,7 +105,7 @@
             "time": "2021-04-14T07:41:00+05:30",
             "timeText_en": "7.41 am, 14th April 2021",
             "timeText_si": "2021 අප්‍රේල් 14, පෙ.ව 7.41 ",
-            "timeText_ta": "14ம் திகதி ஏப்பில் 2021, காலை 7.41 ",
+            "timeText_ta": "7.41 am, 14th April 2021 ",
             "nakath_reason_en": "This chārithra is performed expecting prosperity, stable financial status, and success throughout the year",
             "nakath_reason_si": "වර්ෂය පුරා සෞභාග්‍යය උදාවීම, යහපත් ආර්ථික තත්ත්වයක් පවත්වා ගැනීම හා සියලු කටයුතු සාර්ථක වීම උදෙසා මෙම චාරිත්‍ර ඉටු කරයි",
             "nakath_reason_ta": "ஆண்டு முழுவதும் செளபாக்கியம் பிறக்க, நிலையான நிதி நிலைமை பெற மற்றும் செய்யும் அனைத்து காரியங்களும் வெற்றி பெறுவதற்காக இந்த மரபு கடைபிடிக்கப்படுகிறது.",
@@ -126,7 +125,7 @@
             "time": "2021-04-17T07:16:00+05:30",
             "timeText_en": "07.16 am, 17th April 2021",
             "timeText_si": "2021 අප්‍රේල් 17, පෙ.ව 07.16 ",
-            "timeText_ta": "17ம் திகதி ஏப்பில் 2021, காலை 07.16",
+            "timeText_ta": "07.16 am, 17th April 2021",
             "nakath_reason_en": "Healing the body and mind in order to expect good health throughout the year is believed by performing this chārithra",
             "nakath_reason_si": "නව වසර පුරාම යහපත් සෞඛ්‍ය තත්ත්වයක් පවත්වා ගැනීම උදෙසා මෙම චාරිත්‍ර ඉටු කරයි ",
             "nakath_reason_ta": "மலரும் புத்தாண்டு முழுவதும் உடல் மற்றும் மனம் குணப்பட்டு   நல்ல ஆரோக்கியம் எதிர்பார்த்து இந்த மரபு கடைபிடிக்கப்படுகிறது",
@@ -146,7 +145,7 @@
             "time": "2021-04-19T06:39:00+05:30",
             "timeText_en": "6.39 am, 19th April 2021",
             "timeText_si": "2021 අප්‍රේල් 19, පෙ.ව 6.39 ",
-            "timeText_ta": "19ம் திகதி ஏப்பில் 2020, காலை 6.39",
+            "timeText_ta": "6.39 am, 19th April 2021",
             "nakath_reason_en": "In this chārithra the expectation is to succeed in one's career for the development of the country.",
             "nakath_reason_si": "රටේ දියුණුව සඳහා තම රැකියාව සාර්ථකව සිදු කිරීම මෙම චාරිත්‍රයේ පරමාර්ථය වේ ",
             "nakath_reason_ta": "நாட்டின் அபிவிருத்தியை முன்னிட்டு ஒவ்வொருவரினதும் வேலை வெற்றி பெறும் என்ற நம்பிக்கையுடன் இந்த மரபு பின்பற்றப்படுகிறது",
@@ -167,7 +166,7 @@
             "time": "2022-04-01T14:35:00+05:30",
             "timeText_en": "Counting till, April 2022",
             "timeText_si": "2022 අප්‍රේල්",
-            "timeText_ta": "ஏப்ரல் 2022 வரை",
+            "timeText_ta": "Counting till, April 2022",
             "nakath_reason_en": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
             "nakath_reason_si": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
             "nakath_reason_ta": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
@@ -184,8 +183,7 @@
             "direction": ""
         }
     ],
-    "notifications": [
-        {
+    "notifications": [{
             "title": "KohoKoho! New Nakatha is coming",
             "text": "Hurry Up! Finish off all your work. 5 mins for Punya Kaalaya.",
             "time": "2021-04-16T21:30:00+05:30"
