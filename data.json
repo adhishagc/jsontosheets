@@ -187,20 +187,34 @@
     ],
     "notifications": [
         {
-            "title": "KohoKoho! New Nakatha is coming",
-            "text": "Hurry Up! Finish off all your work. 5 mins for Punya Kaalaya.",
-            "time": "2021-04-16T21:30:00+05:30"
+            "title": "KohoKoho! Turn East and follow the Chaarithraya",
+            "text": "Still looking for East. Open the KohoKoho Compass and find your directions",
+            "time": "2021-04-01T14:35:00+05:30"
         },
         {
             "title": "KohoKoho! New Nakatha is coming",
             "text": "It will be new year in 5mins time. Stay Home & Celebrate.",
             "time": "2021-04-12T11:30:00+05:30"
         },
+
         {
             "title": "KohoKoho! New Nakatha is coming",
             "text": "1 more minute, and its New Year. Stay Home & Celebrate.",
             "time": "2021-04-13T20:09:00+05:30"
         },
+        {
+            "title": "Punya Kaalaya just started",
+            "text": "Punya Kaalaya just started. KohoKoho will keep you notified this Avurudu.",
+            "time": "2021-04-13T20:09:20+05:30"
+        },
+        
+        
+        {
+            "title": "We are in Punya Kaalaya",
+            "text": "You can always engage in religious activities while at home..",
+            "time": "2021-04-13T20:11:00+05:30"
+        },
+
         {
             "title": "KohoKoho! Greetings",
             "text": "We at SurfEdge wish you and your family a very Happy New year. Stay Safe.",
@@ -218,18 +232,8 @@
         },
         {
             "title": "KohoKoho! New Nakatha is coming",
-            "text": "5 mins more for Aahara Anubhawaya.",
-            "time": "2021-04-17T07:16:00+05:30"
-        },
-        {
-            "title": "KohoKoho! New Nakatha is coming",
-            "text": "1 min more for Aahara Anubhawaya and Wada Alleema.",
-            "time": "2021-04-19T06:39:00+05:30"
-        },
-        {
-            "title": "KohoKoho! Turn East and follow the Chaarithraya",
-            "text": "Still looking for East. Open the KohoKoho Compass and find your directions",
-            "time": "2021-04-01T14:35:00+05:30"
+            "text": "Get ready ! 1 min more for Aahara Piseema Nakatha.",
+            "time": "2021-04-14T06:16:00+05:30"
         },
         {
             "title": "KohoKoho!",
@@ -238,8 +242,14 @@
         },
         {
             "title": "KohoKoho! New Nakatha is coming",
-            "text": "Get ready ! 1 min more for Aahara Piseema Nakatha.",
-            "time": "2021-04-14T06:16:00+05:30"
+            "text": "Hurry Up! Finish off all your work. 5 mins for Punya Kaalaya.",
+            "time": "2021-04-16T21:30:00+05:30"
+        },
+        
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "5 mins more for Aahara Anubhawaya.",
+            "time": "2021-04-17T07:16:00+05:30"
         },
         {
             "title": "KohoKoho! New Nakatha is coming",
@@ -248,19 +258,16 @@
         },
         {
             "title": "KohoKoho! New Nakatha is coming",
+            "text": "1 min more for Aahara Anubhawaya and Wada Alleema.",
+            "time": "2021-04-19T06:39:00+05:30"
+        },
+        
+        {
+            "title": "KohoKoho! New Nakatha is coming",
             "text": " 5 mins more for you to start your daily work. Let’s work from home as much as possible, otherwise let's travel safe following the Covid guidelines.",
             "time": "2021-04-19T06:34:00+05:30"
         },
-        {
-            "title": "Punya Kaalaya just started",
-            "text": "Punya Kaalaya just started. KohoKoho will keep you notified this Avurudu.",
-            "time": "2021-04-13T20:09:20+05:30"
-        },
-        {
-            "title": "We are in Punya Kaalaya",
-            "text": "You can always engage in religious activities while at home..",
-            "time": "2021-04-13T20:11:00+05:30"
-        },
+        
         {
             "title": "Until we meet again!",
             "text": "Until next time, be healthy, be happy, help others and stay safe.:)",
