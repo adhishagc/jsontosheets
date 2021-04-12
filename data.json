@@ -3,26 +3,6 @@
     "app_version": "0.0.5",
     "events": [
         {
-            "time": "2021-04-16",
-            "timeText_en": "16th April 2021",
-            "timeText_si": "2021 අප්‍රේල් 16 ",
-            "timeText_ta": "16th April 2021",
-            "nakath_reason_en": "It is believed that sighting the new moon brings prosperity and wellbeing for the new year",
-            "nakath_reason_si": "නව සඳ බැලීම නව වසරේ සෞභාග්‍ය හා යහපත ගෙනදෙන  බවට විශ්වාස කෙරේ  ",
-            "nakath_reason_ta": "புதிய சந்திரனை பார்ப்பது புத்தாண்டில் செழிப்பு மற்றும் நல்வாழ்வைத் தருவதாக நம்பப்படுகிறது",
-            "description_en": "The new moon should be sighted on Friday the 16th of April for the new Lunar Year and for the new Solar Year.",
-            "description_si": "අභිනව චන්ද්‍ර වර්ෂය සඳහා සහ අභිනව සූර්ය වර්ෂය සඳහා අප්‍රේල් මස 16 වැනි සිකුරාදා දින නව සඳ බැලීම මැනවි.",
-            "description_ta": "புதிய சந்திர ஆண்டிற்கும் புதிய சூரிய ஆண்டிற்கும் ஏப்ரல் 16 வெள்ளிக்கிழமை அமாவாசையை காண வேண்டும்",
-            "title": "Nava San̆da balīma",
-            "title_en": "Sighting the New moon",
-            "title_si": "නව සඳ බැලීම",
-            "title_ta": "புதிய நிலவை பார்ப்பது",
-            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/moon.png",
-            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/moon.png",
-            "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
-            "direction": ""
-        },
-        {
             "time": "2021-04-12",
             "timeText_en": "12th April, 2021 ",
             "timeText_si": "2021 අප්‍රේල් 12 ",
@@ -42,6 +22,7 @@
             "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
             "direction": ""
         },
+
         {
             "time": "2021-04-13T20:09:00+05:30",
             "timeText_en": "From 8.09pm, 13th April to 8.57am, 14th April 2021",
@@ -62,6 +43,7 @@
             "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
             "direction": ""
         },
+
         {
             "time": "2021-04-14T02:33:00+05:30",
             "timeText_en": "2.33 am, 14th April 2021",
@@ -82,6 +64,7 @@
             "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
             "direction": ""
         },
+
         {
             "time": "2021-04-14T06:17:00+05:30",
             "timeText_en": "6.17 am, 14th April 2021",
@@ -102,6 +85,7 @@
             "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
             "direction": "East"
         },
+
         {
             "time": "2021-04-14T07:41:00+05:30",
             "timeText_en": "7.41 am, 14th April 2021",
@@ -122,6 +106,28 @@
             "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
             "direction": "East"
         },
+
+        {
+            "time": "2021-04-16T19:15:00+05:30",
+            "timeText_en": "16th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 16 ",
+            "timeText_ta": "16th April 2021",
+            "nakath_reason_en": "It is believed that sighting the new moon brings prosperity and wellbeing for the new year",
+            "nakath_reason_si": "නව සඳ බැලීම නව වසරේ සෞභාග්‍ය හා යහපත ගෙනදෙන  බවට විශ්වාස කෙරේ  ",
+            "nakath_reason_ta": "புதிய சந்திரனை பார்ப்பது புத்தாண்டில் செழிப்பு மற்றும் நல்வாழ்வைத் தருவதாக நம்பப்படுகிறது",
+            "description_en": "The new moon should be sighted on Friday the 16th of April for the new Lunar Year and for the new Solar Year.",
+            "description_si": "අභිනව චන්ද්‍ර වර්ෂය සඳහා සහ අභිනව සූර්ය වර්ෂය සඳහා අප්‍රේල් මස 16 වැනි සිකුරාදා දින නව සඳ බැලීම මැනවි.",
+            "description_ta": "புதிய சந்திர ஆண்டிற்கும் புதிய சூரிய ஆண்டிற்கும் ஏப்ரல் 16 வெள்ளிக்கிழமை அமாவாசையை காண வேண்டும்",
+            "title": "Nava San̆da balīma",
+            "title_en": "Sighting the New moon",
+            "title_si": "නව සඳ බැලීම",
+            "title_ta": "புதிய நிலவை பார்ப்பது",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/moon.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/moon.png",
+            "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
+            "direction": ""
+        },
+
         {
             "time": "2021-04-17T07:16:00+05:30",
             "timeText_en": "07.16 am, 17th April 2021",
