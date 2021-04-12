@@ -1,6 +1,5 @@
 {
-    "version": "4.0.27",
-    "app_version": "0.0.5",
+   
     "events" : [
         {
             "time": "2021-04-16",
