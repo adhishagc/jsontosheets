@@ -202,16 +202,21 @@
             "text": "1 more minute, and its New Year. Stay Home & Celebrate.",
             "time": "2021-04-14T02:32:00+05:30"
         },
+        
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "Hurry Up! Finish off all your work. 5 mins for Punya Kaalaya.",
+            "time": "2021-04-13T20:04:00+05:30"
+        },
+
         {
             "title": "Punya Kaalaya just started",
             "text": "Punya Kaalaya just started. KohoKoho will keep you notified this Avurudu.",
             "time": "2021-04-13T20:09:20+05:30"
         },
-        
-        
         {
             "title": "We are in Punya Kaalaya",
-            "text": "You can always engage in religious activities while at home..",
+            "text": "You can always engage in religious activities while at home...",
             "time": "2021-04-13T20:11:00+05:30"
         },
 
@@ -220,6 +225,19 @@
             "text": "We at SurfEdge wish you and your family a very Happy New year. Stay Safe.",
             "time": "2021-04-14T02:33:00+05:30"
         },
+
+        {
+            "title": "We are still in Punya Kaalaya",
+            "text": "A very good morning to you. Hope you are not working at this time. Punya Kaalaya ends at 8:57am.",
+            "time": "2021-04-14T06:00:00+05:30"
+        },
+
+        {
+            "title": "Punya Kaalaya ended",
+            "text": "Punya Kaalaya just ended.",
+            "time": "2021-04-14T08:57:00+05:30"
+        },
+
         {
             "title": "KohoKoho! New Nakatha is coming",
             "text": "5 mins more to start Aahara Piseema Nakatha. To mark the tradition, cooking something little would also be suffice.",
@@ -240,11 +258,7 @@
             "text": "We are rising fight together as a nation against the Covid and it wasn’t the type of new year we all wished for but at least we were all together as one. Stay Safe.",
             "time": "2021-04-14T23:30:00+05:30"
         },
-        {
-            "title": "KohoKoho! New Nakatha is coming",
-            "text": "Hurry Up! Finish off all your work. 5 mins for Punya Kaalaya.",
-            "time": "2021-04-16T21:30:00+05:30"
-        },
+        
         
         {
             "title": "KohoKoho! New Nakatha is coming",
