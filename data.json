@@ -1,7 +1,8 @@
 {
     "version": "4.0.27",
     "app_version": "0.0.5",
-    "events": [{
+    "events": [
+        {
             "time": "2021-04-16",
             "timeText_en": "16th April 2021",
             "timeText_si": "2021 අප්‍රේල් 16 ",
@@ -139,7 +140,7 @@
             "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/hisathek.png",
             "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/Hisathel.png",
             "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
-            "direction": "East"
+            "direction": "South"
         },
         {
             "time": "2021-04-19T06:39:00+05:30",
@@ -159,7 +160,7 @@
             "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/work.jpeg",
             "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/office.png",
             "footer": "<img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
-            "direction": "East"
+            "direction": "South"
         },
 
         {
